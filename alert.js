@@ -13,7 +13,7 @@ function answerChecking (question,options,quizAnswer)
 //   alert(question+options);
     userAnswer=prompt(question+options);
   if (userAnswer!==null){
-  if(quizAnswer===userAnswer)
+  if(quizAnswer.toUpperCase()===userAnswer.toUpperCase())
   {
     score++;
     alert(`You are right !
