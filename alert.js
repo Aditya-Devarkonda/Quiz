@@ -30,7 +30,7 @@ Correct answer is: ${quizAnswer}`);
 
 //Array of quiz questions
 var quizQuestion=[{
-  question:"The series Friends is set in which city?\n",
+  question:"\n1. The series Friends is set in which city?\n\n",
   options: `a. Los Angeles
 b. New York City
 c. Miami
@@ -38,7 +38,7 @@ d. Seattle\n
 Your answer is: `,
   quizAnswer:"b",
 },{
-  question:"What pet did Ross own?\n",
+  question:"\n2. What pet did Ross own?\n\n",
   options:`a. A dog named Keith
 b. A rabbit called Lancelot
 c. A monkey named Marcel
@@ -46,7 +46,7 @@ d. A lizard named Alistair\n
 Your answer is: `,
   quizAnswer:"c",
 },{
-  question:"What kind of uniform does Joey wear to Monica and Chandler’s wedding?\n",
+  question:"\n3. What kind of uniform does Joey wear to Monica and Chandler’s wedding?\n\n",
   options:`a. Chef
 b. Soldier
 c. Fire fighter
@@ -54,7 +54,7 @@ d. A baseball player\n
 Your answer is: `,
   quizAnswer:"b",
 },{
-  question:"What’s the name of Joey’s penguin?\n",
+  question:"\n4. What’s the name of Joey’s penguin?\n\n",
   options:`a. Snowflake
 b. Waddle
 c. Huggsy
@@ -62,7 +62,7 @@ d. Bobber\n
 Your answer is: `,
   quizAnswer:"c",
 },{
-  question:"What’s the name of Janice’s first husband?\n",
+  question:"\n5. What’s the name of Janice’s first husband?\n\n",
   options:`a. Gary Litman
 b. Sid Goralnik
 c. Rob Bailystock
@@ -70,7 +70,7 @@ d. Nick Layster\n
 Your answer is: `,
   quizAnswer:"a",
 },{
-  question:"What song is Phoebe best known for?\n",
+  question:"\n6. What song is Phoebe best known for?\n\n",
   options:`a. Smelly Cat
 b. Smelly Dog
 c. Smelly Rabbit
@@ -78,7 +78,7 @@ d. Smelly Worm\n
 Your answer is: `,
   quizAnswer:"a",
 },{
-  question:"What job does Ross have?\n",
+  question:"\n7. What job does Ross have?\n\n",
   options:`a. Paleontologist
 b. Artist
 c. Photographer
@@ -86,7 +86,7 @@ d. Insurance salesman\n
 Your answer is: `,
   quizAnswer:"a",
 },{
-  question:"What does Joey never share?\n",
+  question:"\n8. What does Joey never share?\n\n",
   options:`a. His books
 b. His information
 c. His food
@@ -94,7 +94,7 @@ d. His DVDs\n
 Your answer is: `,
   quizAnswer:"c",
 },{
-  question:"What is Chandler’s middle name?\n",
+  question:"\n9. What is Chandler’s middle name?\n\n",
   options:`a. Muriel
 b. Jason
 c. Kim
@@ -102,7 +102,7 @@ d. Zachary\n
 Your answer is: `,
   quizAnswer:"a",
 },{
-  question:"What is the name of Phoebe’s alter-ego?\n",
+  question:"\n10. What is the name of Phoebe’s alter-ego?\n\n",
   options:`a. Phoebe Neeby
 b. Monica Bing
 c. Regina Phalange
